@@ -1,0 +1,13 @@
+.nav {
+    background-color: rgb(22, 22, 22);
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.link {
+    color: rgb(71, 74, 212);
+    font-weight: bold;
+    font-size: 25px;
+}
